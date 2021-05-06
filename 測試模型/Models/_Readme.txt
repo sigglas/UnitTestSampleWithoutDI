@@ -1,5 +1,5 @@
 ﻿Models權責
-無論邏輯的實體(Entity or Service)、資料的模型(ER or DBEntities)還是簡單物件(DTO)或純值物件(ValueObject)
+無論邏輯的實體(Entity or Service)、資料的模型(DBEntities or other)還是簡單物件(DTO)或純值物件(ValueObject)
 其實都是屬於Model
 為了避免全部取名為Model造成混淆
 資料模型的尾綴使用Model
